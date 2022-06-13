@@ -75,7 +75,3 @@ int main(void)
     }
 }
 
-/* Learn More - Program Analysis Activities
- * 
- * 1. 
- */
